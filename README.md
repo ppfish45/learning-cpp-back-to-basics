@@ -4,7 +4,7 @@ This repo will serve as my learning notes to the _back to basics_ series in past
 
 ## Table of Content
 
-Empty
++ [Lambda Expression](./lambda-expressions/)
 
 ## Links to Content
 
