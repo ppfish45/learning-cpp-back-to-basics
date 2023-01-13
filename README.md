@@ -6,6 +6,8 @@ This repo will serve as my learning notes to the _back to basics_ series in past
 
 + [Lambda Expression](./lambda-expressions/)
 
++ [Smart Pointer](./smart-pointer/)
+
 ## Links to Content
 
 + [CppCon2020](https://github.com/CppCon/CppCon2020)
